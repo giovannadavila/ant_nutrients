@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Edited by Giovanna!
+
 Short PCA example (commented out so you can see what happens one step at a time...)
 
 ###Get packages and ant nest nutrient data
